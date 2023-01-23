@@ -1,0 +1,4 @@
+django
+gunicorn
+python-telegram-bot
+Pillow
